@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlogReader</string>
+    <string name="no_blog_posts">No blog post to display</string>
+    <string name="action_settings">Settings</string>
+    <string name="network_not_available">Network is not available</string>
+    <string name="title_activity_blog_webview">BlogPost</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
